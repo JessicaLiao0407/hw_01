@@ -1,0 +1,8 @@
+body{
+    color: rgb(59, 70, 150);
+}
+
+blockquote { color: blue ; }
+h1 { color: rgba(0,0,0,0.5); }/*紅,綠,藍,透明度*/
+strong { color: #00f; color: #f00;}/*後蓋前*/
+p { color: gold } 
